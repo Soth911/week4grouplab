@@ -1,0 +1,7 @@
+Cafeteria service
+
+we have implement Cafeteria service using queue
+such that have a line of people to stay in a line with max 10 people 
+so if we hve 3 people we can add more people until the people reach 10 we cannot 
+add the next 11th person and the message cannot add with appear
+
